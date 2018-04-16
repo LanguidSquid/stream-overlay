@@ -1,0 +1,10 @@
+#leaderboard {
+    font-family: sans-serif;
+	text-align: center;
+	color: white;
+}
+
+td {
+	max-width: 125px;
+    overflow: hidden;
+}
